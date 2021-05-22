@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  22 MAY 2021 16:30
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  22 MAY 2021 17:50
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -752,20 +752,20 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 )
 (./edlab-penalties.sty) (./edlab-git.sty) (./edlab-toc.sty) (./edlab-extra.sty) (./edlab-margins.sty
 
-Class memoir Warning: \marginparsep is zero or negative on input line 151.
+Class memoir Warning: \marginparsep is zero or negative on input line 164.
 
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
-Top and edge trims: 56.9055pt and 109.5431pt
-Page height and width: 597.50787pt by 378.42165pt
-Text height and width: 473.4002pt by 275pt
-Spine and edge margins: 51.2299pt and 51.20001pt
-Upper and lower margins: 47.53113pt and 76.57654pt
-Headheight and headsep: 13.6pt and 14.22636pt
-Footskip: 27.46295pt
+Top and edge trims: 56.9055pt and 142.26378pt
+Page height and width: 512.1496pt by 312.9803pt
+Text height and width: 378.20016pt by 202pt
+Spine and edge margins: 54.06021pt and 56.90549pt
+Upper and lower margins: 46.55905pt and 87.39038pt
+Headheight and headsep: 11.38109pt and 19.8738pt
+Footskip: 22.76219pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 0pt and 68.99792pt
+Marginparsep and marginparwidth: 0pt and 50.50365pt
 Sidecapsep and sidecapwidth: 7pt and 111pt
 Sidebarhsep and sidebarwidth: 7pt and 111pt
 Sidebarvsep and sidebartopsep: 13.6pt and 0pt
@@ -1072,22 +1072,22 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 ]
 (./2-creditos.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--14
+Underfull \hbox (badness 10000) in paragraph at lines 8--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--20
+Underfull \hbox (badness 10000) in paragraph at lines 14--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--29
+Underfull \hbox (badness 10000) in paragraph at lines 20--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
@@ -1096,148 +1096,964 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package luatex.def Info: logo.png  used on input line 67.
-(luatex.def)             Requested size: 82.50084pt x 75.27579pt.
+(luatex.def)             Requested size: 60.60062pt x 55.29466pt.
 )
 Underfull \hbox (badness 10000) in paragraph at lines 63--17
 [] 
  []
 
-[3<./logo.png>] [4] (./LIVRO.toc [5]) (./TEXTO.tex [6] [7
+[3<./logo.png>] [4] (./LIVRO.toc) (./TEXTO.tex
 
-] [8] [9
+Class memoir Warning: The material used in the headers is too large
+(13.59999pt) for the given head height (11.38109pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 1.
+
+
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[5] [6
+
+] [7] [8] [9
 
 ] [10
 
 ]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-LaTeX Font Warning: Font shape `TU/Formular(0)/b/sc' undefined
-(Font)              using `TU/Formular(0)/b/n' instead on input line 16.
 
-[11] [12] [13] [14] [15
+[11]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [16] [17] [18
 
-] [19] [20] [21] [22
+[12]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [23] [24
 
-] [25]
-[26] [27] [28
+[13]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [29] [30
 
-] [31] [32] [33] [34] [35] [36] [37
+[14]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [38] [39] [40
+
+[15
 
 ]
-[41] [42] [43
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [44
 
-] [45] [46] [47] [48] [49] [50] [51
+[16]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [52] [53] [54
 
-] [55]
-[56] [57
+[17
 
-] [58] [59] [60
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [61] [62] [63] [64
 
-] [65] [66] [67
+[18]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [68] [69
 
-] [70]
+[19]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[20]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[21
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[22]
+Underfull \hbox (badness 1776) in paragraph at lines 94--95
+[]\TU/MinionPro(0)/m/n/10.95 O quarto con-ser-vava va-ga-mente a lem-
+ []
+
+
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[23]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[24]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[25
+
+] [26
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[27]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[28]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[29]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[30]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[31
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[32]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[33
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[34]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[35]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[36]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[37]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[38]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[39]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[40]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[41] [42
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[43]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[44]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[45]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[46]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[47] [48
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[49]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[50]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[51] [52
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[53]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[54]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[55
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[56]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[57]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[58]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[59]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[60]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[61]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[62]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[63] [64
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[65]
+Underfull \hbox (badness 1107) in paragraph at lines 356--357
+[]\TU/MinionPro(0)/m/n/10.95 -- Olhe…uma es-tá-tua vo-a-dora…olhe rá-
+ []
+
+
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[66]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[67]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[68]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[69
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[70]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
 [71] [72
 
-] [73] [74] [75] [76] [77] [78] [79
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [80] [81] [82] [83
 
-] [84] [85
+[73]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[74]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[75]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[76]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[77] [78
 
 ]
-[86] [87
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [88] [89
 
-] [90] [91
+[79]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [92] [93] [94
 
-] [95]
-Underfull \hbox (badness 2837) in paragraph at lines 719--720
-[]\TU/MinionPro(0)/m/n/10.95 Fi-nal-mente anoi-te-ceu. As pou-cas ár-vo-res do quin-tal
+[80]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[81]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[82]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[83] [84
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[85]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[86]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[87
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[88]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[89] [90
+
+]
+Underfull \hbox (badness 3386) in paragraph at lines 448--449
+[]\TU/MinionPro(0)/m/n/10.95 Ou-tro ob-jeto que me in-qui-e-tou muito
  []
 
-[96] [97
 
-] [98] [99
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [100] [101
 
-] [102] [103
+[91]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [104] [105] [106
 
-] [107] [108]
-[109] [110
+[92]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [111] [112]
-Underfull \hbox (badness 2556) in paragraph at lines 901--902
-[]\TU/MinionPro(0)/m/n/10.95 Por toda a parte ela in-fes-tara o ar, ir-rom-pendo
- nele,
+
+[93]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[94]
+Underfull \hbox (badness 4805) in paragraph at lines 472--473
+[]\TU/MinionPro(0)/m/n/10.95 Da mul-ti-pli-ci-dade dos sons co-ti-di-a-nos
  []
 
-[113] [114
 
-] [115] [116] [117] [118] [119
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [120] [121] [122
 
-] [123] [124]
+[95
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[96]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[97]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[98]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[99]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[100]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[101]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[102]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[103]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[104]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[105
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[106]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[107]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[108]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[109]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[110]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[111] [112
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[113]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[114]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[115] [116
+
+]
+Underfull \hbox (badness 1354) in paragraph at lines 608--610
+\TU/MinionPro(0)/m/n/10.95 Eu tam-bém en-con-trava ve-lha-rias e ob-je-tos
+ []
+
+
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[117]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[118]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[119] [120
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[121]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[122]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[123
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[124]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
 [125] [126
 
-] [127] [128] [129] [130] [131] [132] [133
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [134] [135
 
-] [136]
-[137
+[127]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [138] [139] [140
 
-] [141] [142]
-Underfull \hbox (badness 4072) in paragraph at lines 1274--1275
-[]\TU/MinionPro(0)/m/n/10.95 -- E…sua ca-beça não dói en-quanto lê?…-- 
-per-gun-tei,
- []
+[128]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-[143] [144] [145] [146] [147] [148] [149] [150] [151] [152
 
-] [153] [154]
-[155] [156] [157
+[129]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
-] [158] [159
 
-] [160] [161] [162])) [163
+[130]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[131
 
 ]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[132]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[133] [134
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[135]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[136]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[137
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[138]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[139
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[140]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[141
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[142]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[143]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[144]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[145
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[146]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[147]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[148]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[149] [150
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[151]
+Underfull \hbox (badness 3849) in paragraph at lines 877--878
+[]\TU/MinionPro(0)/m/n/10.95 Ao seu lado, em cima de uma mesa,
+ []
+
+
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[152]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[153]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[154]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[155] [156
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[157]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[158]
+Overfull \hbox (7.22742pt too wide) in paragraph at lines 947--948
+[]\TU/MinionPro(0)/m/n/10.95 Nela afun-dei, exausto. Fi-nal-mente encontrava-
+ []
+
+
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[159]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[160]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[161]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[162]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[163
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[164]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[165]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[166]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[167
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[168]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[169]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[170]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[171
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[172]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[173]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[174]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[175]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[176]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[177]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[178]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[179]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[180]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[181
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[182]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[183] [184
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[185]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[186]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[187
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[188]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[189]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[190]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[191
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[192]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[193]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[194]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[195]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[196]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[197]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[198]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[199]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[200]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[201]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[202]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[203]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[204]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[205]
+Underfull \hbox (badness 1082) in paragraph at lines 1384--1386
+[]\TU/MinionPro(0)/m/n/10.95 -- De jeito al-gum…-- respondeu-me ela,
+ []
+
+
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[206]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[207] [208
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[209]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[210]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[211]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[212]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[213]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[214]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[215
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[216]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[217] [218
+
+]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[219]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[220]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[221]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[222]
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[223] [224
+
+]) (./Z-colofon.tex
+Overfull \vbox (2.2189pt too high) has occurred while \output is active []
+
+
+[225]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 34.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
+RS)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 37.
+))
+[226]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
-Top and edge trims: 56.9055pt and 109.5431pt
-Page height and width: 597.50787pt by 378.42165pt
-Text height and width: 473.4002pt by 275pt
-Spine and edge margins: 51.2299pt and 51.20001pt
-Upper and lower margins: 47.53113pt and 76.57654pt
-Headheight and headsep: 13.6pt and 14.22636pt
-Footskip: 27.46295pt
+Top and edge trims: 56.9055pt and 142.26378pt
+Page height and width: 512.1496pt by 312.9803pt
+Text height and width: 385pt by 202pt
+Spine and edge margins: 54.06021pt and 56.90549pt
+Upper and lower margins: 46.55905pt and 80.59055pt
+Headheight and headsep: 11.38109pt and 19.8738pt
+Footskip: 22.76219pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 10.95pt and 29.30002pt
+Marginparsep and marginparwidth: 10.95pt and 35.0055pt
 Sidecapsep and sidecapwidth: 7pt and 111pt
 Sidebarhsep and sidebarwidth: 7pt and 111pt
 Sidebarvsep and sidebartopsep: 13.6pt and 0pt
@@ -1245,6 +2061,12 @@ Sidebarheight: 539.9202pt
 Sidefoothsep and sidefootwidth: 7pt and 111pt
 Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 ******************************************************
+
+
+Class memoir Warning: The material used in the headers is too large
+(13.59999pt) for the given head height (11.38109pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 78.
 
 \tf@toc=\write5
 
@@ -1256,27 +2078,29 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13178 strings out of 480992
+ 13330 strings out of 480992
  100000,794899 words of node,token memory allocated
- 1175 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 11 attribute, 187 glue_spe
+ 1182 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 12 attribute, 188 glue_spe
 c, 7 attribute_list, 3 shape, 3 write nodes
-   avail lists: 2:1013,3:121,4:49,5:1262,6:30,7:3629,8:2,9:278,10:24,11:343
- 30173 multiletter control sequences out of 65536+600000
- 75 fonts using 11398667 bytes
- 53i,12n,102p,1746b,342s stack positions out of 5000i,500n,10000p,200000b,100000s
-</Users/suzana/Library/Fonts/MinionPro-It.otf></Users/suzana/Library/Fonts/Minio
-nPro-Subh.otf></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/
-Library/Fonts/Formular-Italic.otf></Users/suzana/Library/Fonts/Formular-Bold.otf
-></Users/suzana/Library/Fonts/MinionPro-ItCapt.otf></Users/suzana/Library/Fonts/
-MinionPro-Capt.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></Users/s
-uzana/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2020/texmf-dist/fon
-ts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fo
-nts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (163 pages, 489030 bytes).
+   avail lists: 2:487,3:68,4:38,5:1237,6:17,7:3647,8:2,9:249,10:17,11:335
+ 30297 multiletter control sequences out of 65536+600000
+ 97 fonts using 13389035 bytes
+ 53i,12n,102p,1746b,324s stack positions out of 5000i,500n,10000p,200000b,100000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
+ers/suzana/Library/Fonts/MinionPro-It.otf></Users/suzana/Library/Fonts/MinionPro
+-Subh.otf></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Libr
+ary/Fonts/Formular-Italic.otf></Users/suzana/Library/Fonts/Formular-Bold.otf></U
+sers/suzana/Library/Fonts/MinionPro-ItCapt.otf></Users/suzana/Library/Fonts/Mini
+onPro-Capt.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></Users/suzan
+a/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2020/texmf-dist/fonts/o
+pentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/
+type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts
+/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (226 pages, 573573 bytes).
 
-PDF statistics: 591 PDF objects out of 1000 (max. 8388607)
- 390 compressed objects within 4 object streams
+PDF statistics: 794 PDF objects out of 1000 (max. 8388607)
+ 527 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
