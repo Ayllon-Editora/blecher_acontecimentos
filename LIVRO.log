@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  22 MAY 2021 17:50
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  8 JUN 2021 21:06
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1060,7 +1060,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 LaTeX Font Warning: Font shape `TU/Formular(0)/m/sc' undefined
-(Font)              using `TU/Formular(0)/m/n' instead on input line 40.
+(Font)              using `TU/Formular(0)/m/n' instead on input line 41.
 
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1087,22 +1087,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--28
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
 ) [2] (./3-rosto.tex
+
+Package fontspec Info: Font family 'MinionPro(1)' created for font 'Minion
+(fontspec)             Pro' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"MinionPro:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"MinionPro:mode=node;script=latn;language=dflt;+smcp;"
+
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"MinionPro/B:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"MinionPro/B:mode=node;script=latn;language=dflt;+smcp
+;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"MinionPro/I:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"MinionPro/I:mode=node;script=latn;language=dflt;+smcp
+;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;+smc
+p;"
+
 <logo.png, id=15, 596.2275pt x 544.0325pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package luatex.def Info: logo.png  used on input line 67.
+Package luatex.def Info: logo.png  used on input line 62.
 (luatex.def)             Requested size: 60.60062pt x 55.29466pt.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 63--17
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--66
 [] 
  []
 
-[3<./logo.png>] [4] (./LIVRO.toc) (./TEXTO.tex
+) [3<./logo.png>] [4] (./LIVRO.toc) (./TEXTO.tex
 
 Class memoir Warning: The material used in the headers is too large
 (13.59999pt) for the given head height (11.38109pt), it is recommended to
@@ -1174,7 +1202,7 @@ Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
 
 [22]
-Underfull \hbox (badness 1776) in paragraph at lines 94--95
+Underfull \hbox (badness 1776) in paragraph at lines 91--92
 []\TU/MinionPro(0)/m/n/10.95 O quarto con-ser-vava va-ga-mente a lem-
  []
 
@@ -1349,7 +1377,7 @@ Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
 
 [65]
-Underfull \hbox (badness 1107) in paragraph at lines 356--357
+Underfull \hbox (badness 1107) in paragraph at lines 353--354
 []\TU/MinionPro(0)/m/n/10.95 -- Olhe…uma es-tá-tua vo-a-dora…olhe rá-
  []
 
@@ -1450,7 +1478,7 @@ Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 [89] [90
 
 ]
-Underfull \hbox (badness 3386) in paragraph at lines 448--449
+Underfull \hbox (badness 3386) in paragraph at lines 445--446
 []\TU/MinionPro(0)/m/n/10.95 Ou-tro ob-jeto que me in-qui-e-tou muito
  []
 
@@ -1471,7 +1499,7 @@ Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
 
 [94]
-Underfull \hbox (badness 4805) in paragraph at lines 472--473
+Underfull \hbox (badness 4805) in paragraph at lines 469--470
 []\TU/MinionPro(0)/m/n/10.95 Da mul-ti-pli-ci-dade dos sons co-ti-di-a-nos
  []
 
@@ -1564,7 +1592,7 @@ Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 [115] [116
 
 ]
-Underfull \hbox (badness 1354) in paragraph at lines 608--610
+Underfull \hbox (badness 1354) in paragraph at lines 605--607
 \TU/MinionPro(0)/m/n/10.95 Eu tam-bém en-con-trava ve-lha-rias e ob-je-tos
  []
 
@@ -1713,7 +1741,7 @@ Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
 
 [151]
-Underfull \hbox (badness 3849) in paragraph at lines 877--878
+Underfull \hbox (badness 3849) in paragraph at lines 874--875
 []\TU/MinionPro(0)/m/n/10.95 Ao seu lado, em cima de uma mesa,
  []
 
@@ -1744,7 +1772,7 @@ Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
 
 [158]
-Overfull \hbox (7.22742pt too wide) in paragraph at lines 947--948
+Overfull \hbox (7.22742pt too wide) in paragraph at lines 944--945
 []\TU/MinionPro(0)/m/n/10.95 Nela afun-dei, exausto. Fi-nal-mente encontrava-
  []
 
@@ -1947,7 +1975,7 @@ Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
 
 [205]
-Underfull \hbox (badness 1082) in paragraph at lines 1384--1386
+Underfull \hbox (badness 1082) in paragraph at lines 1381--1383
 []\TU/MinionPro(0)/m/n/10.95 -- De jeito al-gum…-- respondeu-me ela,
  []
 
@@ -2029,17 +2057,17 @@ Overfull \vbox (2.2189pt too high) has occurred while \output is active []
 
 [225]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 34.
+(Font)              <7> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 34.
+(Font)              <5> on input line 35.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 37.
+(Font)              <9> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 37.
+(Font)              <6> on input line 38.
 ))
 [226]
 
@@ -2078,29 +2106,28 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13330 strings out of 480992
+ 13367 strings out of 480992
  100000,794899 words of node,token memory allocated
  1182 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 12 attribute, 188 glue_spe
 c, 7 attribute_list, 3 shape, 3 write nodes
-   avail lists: 2:487,3:68,4:38,5:1237,6:17,7:3647,8:2,9:249,10:17,11:335
- 30297 multiletter control sequences out of 65536+600000
- 97 fonts using 13389035 bytes
- 53i,12n,102p,1746b,324s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 2:487,3:68,4:39,5:1237,6:17,7:3647,8:2,9:249,10:17,11:335
+ 30334 multiletter control sequences out of 65536+600000
+ 109 fonts using 16574955 bytes
+ 53i,12n,102p,1746b,327s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
-ers/suzana/Library/Fonts/MinionPro-It.otf></Users/suzana/Library/Fonts/MinionPro
--Subh.otf></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Libr
-ary/Fonts/Formular-Italic.otf></Users/suzana/Library/Fonts/Formular-Bold.otf></U
-sers/suzana/Library/Fonts/MinionPro-ItCapt.otf></Users/suzana/Library/Fonts/Mini
-onPro-Capt.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></Users/suzan
-a/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2020/texmf-dist/fonts/o
-pentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/
-type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts
-/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (226 pages, 573573 bytes).
+ers/suzana/Library/Fonts/MinionPro-Subh.otf></Users/suzana/Library/Fonts/MinionP
+ro-It.otf></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Libr
+ary/Fonts/Formular-Bold.otf></Users/suzana/Library/Fonts/MinionPro-ItCapt.otf></
+Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana/Library/Fonts/Minio
+nPro-BoldCapt.otf></Users/suzana/Library/Fonts/Formular-Regular.otf></usr/local/
+texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr/local
+/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/loca
+l/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (226 pages, 573910 bytes).
 
-PDF statistics: 794 PDF objects out of 1000 (max. 8388607)
- 527 compressed objects within 6 object streams
+PDF statistics: 787 PDF objects out of 1000 (max. 8388607)
+ 523 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
