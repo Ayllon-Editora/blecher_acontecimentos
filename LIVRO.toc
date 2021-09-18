@@ -1,3 +1,8 @@
 \contentsline {part}{Acontecimentos na irrealidade imediata}{9}%
 \contentsline {chapter}{Posfácio, \emph {por Fábio Zuker}}{161}%
+\contentsline {section}{Que esplêndido é ser louco}{162}%
+\contentsline {section}{O surrelismo e a cidade}{163}%
+\contentsline {section}{Um corpo poroso}{164}%
+\contentsline {section}{A política da exclusão}{165}%
+\contentsline {section}{Quem foi o jovem Max Blecher}{166}%
 \babel@toc {brazilian}{}
