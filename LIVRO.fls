@@ -241,8 +241,12 @@ INPUT ./logo.png
 INPUT ./logo.png
 INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
+INPUT ./PRETAS.tex
+INPUT ./PRETAS.tex
 INPUT ./TEXTO.tex
 INPUT ./TEXTO.tex
+INPUT ./POSFACIO.tex
+INPUT ./POSFACIO.tex
 INPUT ./Z-colofon.tex
 INPUT ./Z-colofon.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm

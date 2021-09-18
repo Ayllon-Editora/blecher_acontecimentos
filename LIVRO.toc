@@ -1,2 +1,3 @@
-\contentsline {part}{Acontecimentos na irrealidade imediata}{7}%
+\contentsline {part}{Acontecimentos na irrealidade imediata}{9}%
+\contentsline {chapter}{Posfácio, \emph {por Fábio Zuker}}{161}%
 \babel@toc {brazilian}{}
