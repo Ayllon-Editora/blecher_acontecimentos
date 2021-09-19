@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  18 SEP 2021 21:04
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  18 SEP 2021 21:11
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1134,7 +1134,7 @@ p;"
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package luatex.def Info: logo.png  used on input line 63.
-(luatex.def)             Requested size: 54.99916pt x 54.99228pt.
+(luatex.def)             Requested size: 57.75185pt x 57.74832pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 62--67
 [] 
@@ -1337,7 +1337,7 @@ r.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regul
 ar.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/Ornements
 ADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont
 /lcirclew.pfb>
-Output written on LIVRO.pdf (170 pages, 549434 bytes).
+Output written on LIVRO.pdf (170 pages, 549304 bytes).
 
 PDF statistics: 625 PDF objects out of 1000 (max. 8388607)
  412 compressed objects within 5 object streams
