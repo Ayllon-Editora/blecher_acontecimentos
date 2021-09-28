@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  18 SEP 2021 21:19
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  26 SEP 2021 11:26
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1245,28 +1245,24 @@ Underfull \hbox (badness 2556) in paragraph at lines 934--935
 
 ] [113] [114] [115] [116] [117
 
-]
-Overfull \hbox (3.29918pt too wide) in paragraph at lines 1043--1044
-[]\TU/MinionPro(0)/m/n/10.95 --- …Certo…certo…vou prestar-lhe o meu con-cu
-rso…quando
- []
+] [118] [119] [120
 
-[118] [119] [120
+] [121] [122]
+[123] [124
 
-] [121] [122] [123] [124
-
-] [125] [126] [127] [128] [129]
-[130] [131
+] [125] [126] [127] [128] [129] [130] [131
 
 ] [132] [133
 
-] [134] [135
+] [134]
+[135
 
 ] [136] [137] [138
 
 ] [139] [140]
-Underfull \hbox (badness 2503) in paragraph at lines 1315--1316
-[]\TU/MinionPro(0)/m/n/10.95 --- E…sua ca-beça não dói en-quanto lê?…-- per-gun-tei,
+Underfull \hbox (badness 1394) in paragraph at lines 1315--1316
+[]\TU/MinionPro(0)/m/n/10.95 --- E…sua ca-beça não dói en-quanto lê?…---
+ per-gun-tei,
  []
 
 [141] [142] [143] [144] [145] [146] [147] [148] [149
@@ -1322,7 +1318,7 @@ Here is how much of LuaTeX's memory you used:
  1242 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 10 glue, 3 kern, 1 glyph, 22 attribute, 187 glue_sp
 ec, 12 attribute_list, 3 shape, 3 write nodes
-   avail lists: 2:488,3:56,4:45,5:1177,6:21,7:3420,8:2,9:248,10:24,11:329
+   avail lists: 2:488,3:56,4:45,5:1177,6:21,7:3428,8:2,9:250,10:24,11:329
  30375 multiletter control sequences out of 65536+600000
  116 fonts using 18323555 bytes
  53i,12n,102p,1746b,327s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1337,7 +1333,7 @@ r.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regul
 ar.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/Ornements
 ADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont
 /lcirclew.pfb>
-Output written on LIVRO.pdf (170 pages, 549404 bytes).
+Output written on LIVRO.pdf (170 pages, 549195 bytes).
 
 PDF statistics: 625 PDF objects out of 1000 (max. 8388607)
  412 compressed objects within 5 object streams
