@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  12 OCT 2021 23:31
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  12 OCT 2021 23:35
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1255,9 +1255,8 @@ rso…quando
 ] [117] [118] [119
 
 ] [120]
-Underfull \hbox (badness 1394) in paragraph at lines 1318--1319
-[]\TU/MinionPro(0)/m/n/10.95 --- E…sua ca-beça não dói en-quanto lê?…---
- per-gun-tei,
+Underfull \hbox (badness 2503) in paragraph at lines 1318--1319
+[]\TU/MinionPro(0)/m/n/10.95 --- E…sua ca-beça não dói en-quanto lê?…-- per-gun-tei,
  []
 
 [121] [122] [123] [124] [125] [126] [127] [128] [129] [130
@@ -1316,7 +1315,7 @@ Here is how much of LuaTeX's memory you used:
  1306 words of node memory still in use:
    5 hlist, 1 vlist, 2 rule, 9 glue, 3 kern, 1 glyph, 21 attribute, 198 glue_spe
 c, 12 attribute_list, 3 shape, 3 write nodes
-   avail lists: 2:542,3:59,4:45,5:1408,6:20,7:3624,8:2,9:240,10:24,11:333
+   avail lists: 2:542,3:59,4:45,5:1408,6:20,7:3622,8:2,9:240,10:24,11:333
  30408 multiletter control sequences out of 65536+600000
  133 fonts using 21932403 bytes
  53i,12n,102p,1746b,341s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1331,7 +1330,7 @@ otf></Users/suzana/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2020/t
 exmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/
 texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2020
 /texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (150 pages, 536788 bytes).
+Output written on LIVRO.pdf (150 pages, 536858 bytes).
 
 PDF statistics: 569 PDF objects out of 1000 (max. 8388607)
  374 compressed objects within 4 object streams
