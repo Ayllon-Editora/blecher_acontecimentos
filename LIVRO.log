@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  15 OCT 2021 18:20
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  25 OCT 2021 12:33
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1226,7 +1226,7 @@ RS)
 [92] [93
 
 ] [94]
-Underfull \hbox (badness 2556) in paragraph at lines 937--938
+Underfull \hbox (badness 2556) in paragraph at lines 938--939
 []\TU/MinionPro(0)/m/n/10.95 Por toda a parte ela in-fes-tara o ar, ir-rom-pendo
  nele,
  []
@@ -1236,7 +1236,7 @@ Underfull \hbox (badness 2556) in paragraph at lines 937--938
 ] [97] [98] [99] [100
 
 ]
-Overfull \hbox (3.29918pt too wide) in paragraph at lines 1046--1047
+Overfull \hbox (3.29918pt too wide) in paragraph at lines 1047--1048
 []\TU/MinionPro(0)/m/n/10.95 --- …Certo…certo…vou prestar-lhe o meu con-cu
 rso…quando
  []
@@ -1255,7 +1255,7 @@ rso…quando
 ] [117] [118] [119
 
 ] [120]
-Underfull \hbox (badness 2503) in paragraph at lines 1318--1319
+Underfull \hbox (badness 2503) in paragraph at lines 1319--1320
 []\TU/MinionPro(0)/m/n/10.95 --- E…sua ca-beça não dói en-quanto lê?…-- per-gun-tei,
  []
 
@@ -1330,7 +1330,7 @@ otf></Users/suzana/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2020/t
 exmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/
 texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2020
 /texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (150 pages, 535969 bytes).
+Output written on LIVRO.pdf (150 pages, 536328 bytes).
 
 PDF statistics: 569 PDF objects out of 1000 (max. 8388607)
  374 compressed objects within 4 object streams
