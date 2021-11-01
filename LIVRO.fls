@@ -220,6 +220,17 @@ INPUT ./INPUTS.tex
 INPUT ./INPUTS.tex
 INPUT ./1-fronte.tex
 INPUT ./1-fronte.tex
+INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.luc
+INPUT /System/Library/Fonts/ArialHB.ttc
+INPUT /usr/local/texlive/2020/texmf-dist/tex/luatex/luaotfload/luaotfload-glyphlist.lua
+OUTPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.lua
+INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.lua
+OUTPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.luc
+INPUT /Users/suzana/Library/Fonts/ArialHB.ttc
+OUTPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.lua
+INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.lua
+OUTPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.luc
+INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-2.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmmono10-regular.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmmono8-regular.luc
 OUTPUT LIVRO.pdf
