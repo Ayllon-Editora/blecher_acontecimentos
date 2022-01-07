@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  1 NOV 2021 11:50
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  6 JAN 2022 21:48
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1367,99 +1367,89 @@ RS)
 
 ] [35
 
-] [36] [37] [38] [39] [40] [41
+] [36] [37] [38] [39] [40
 
-] [42] [43] [44
+] [41] [42] [43
 
-] [45] [46
+] [44] [45
 
-]
-[47] [48] [49
+] [46]
+[47] [48
 
-] [50] [51] [52
+] [49] [50] [51
 
-] [53
+] [52
 
-] [54] [55
+] [53] [54
 
-] [56] [57] [58
+] [55] [56] [57
 
-] [59] [60] [61]
-[62] [63] [64
+] [58] [59] [60] [61]
+[62] [63
 
-] [65] [66] [67] [68
+] [64] [65] [66] [67
 
-] [69] [70
+] [68] [69
 
-] [71] [72
+] [70] [71
 
-] [73] [74
+] [72] [73
 
-] [75] [76
+] [74] [75
 
-]
-[77] [78] [79
+] [76]
+[77] [78
 
-] [80] [81
+] [79] [80
 
-] [82] [83
+] [81] [82
 
-] [84] [85
+] [83] [84
 
-] [86] [87
+] [85] [86
 
-] [88] [89] [90
+] [87] [88] [89
 
-] [91]
-[92] [93
+] [90] [91]
+[92
 
-] [94]
+] [93]
 Underfull \hbox (badness 2556) in paragraph at lines 938--939
 []\TU/MinionPro(0)/m/n/10.95 Por toda a parte ela in-fes-tara o ar, ir-rom-pendo
  nele,
  []
 
-[95] [96
+[94] [95
 
-] [97] [98] [99] [100
+] [96] [97] [98] [99
+
+] [100] [101] [102
+
+] [103] [104] [105
+
+] [106]
+[107] [108] [109] [110] [111
+
+] [112] [113
+
+] [114] [115
+
+] [116] [117] [118
 
 ]
-Overfull \hbox (3.29918pt too wide) in paragraph at lines 1047--1048
-[]\TU/MinionPro(0)/m/n/10.95 --- …Certo…certo…vou prestar-lhe o meu con-cu
-rso…quando
- []
+[119] [120] [121] [122] [123] [124] [125] [126] [127] [128
 
-[101] [102] [103
+] [129] [130]
+[131] [132
 
-] [104] [105] [106
+] [133] [134
 
-] [107] [108] [109] [110] [111] [112
+] [135] [136]) (./POSFACIO.tex [137
 
-]
-[113] [114
+] [138] [139
 
-] [115] [116
-
-] [117] [118] [119
-
-] [120]
-Underfull \hbox (badness 2503) in paragraph at lines 1319--1320
-[]\TU/MinionPro(0)/m/n/10.95 --- E…sua ca-beça não dói en-quanto lê?…-- per-gun-tei,
- []
-
-[121] [122] [123] [124] [125] [126] [127] [128] [129] [130
-
-] [131] [132]
-[133] [134
-
-] [135] [136
-
-] [137] [138]) (./POSFACIO.tex [139
-
-] [140
-
-] [141] [142]
-[143] [144] [145]) [146] (./Y-publicidade.tex [147]
+] [140]
+[141] [142] [143] [144]) [145] (./Y-publicidade.tex [146]
 luaotfload | aux : font no 128 (nil) defines no feature for script latn
 luaotfload | aux : font no 128 (nil) defines no feature for script dflt
 Package microtype Info: Character `A' is missing
@@ -1624,15 +1614,15 @@ Package microtype Info: Character `textexclamdown ' is missing
 Package microtype Info: Character `textquestiondown ' is missing
 (microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
- [148]) (./Z-colofon.tex
-[149]
+ [147])
+(./Z-colofon.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 37.
-)) [150]
+)) [148]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1668,27 +1658,26 @@ Here is how much of LuaTeX's memory you used:
  1306 words of node memory still in use:
    5 hlist, 1 vlist, 2 rule, 9 glue, 3 kern, 1 glyph, 21 attribute, 198 glue_spe
 c, 12 attribute_list, 3 shape, 3 write nodes
-   avail lists: 2:605,3:59,4:45,5:1406,6:20,7:3622,8:2,9:240,10:24,11:333
+   avail lists: 2:605,3:59,4:44,5:1408,6:21,7:3381,8:2,9:240,10:24,11:316
  30452 multiletter control sequences out of 65536+600000
- 153 fonts using 23662675 bytes
+ 153 fonts using 23492747 bytes
  53i,12n,102p,1746b,423s stack positions out of 5000i,500n,10000p,200000b,100000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
-ers/suzana/Library/Fonts/Formular-Italic.otf></System/Library/Fonts/ArialHB.ttc>
-</Users/suzana/Library/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/M
-inionPro-Disp.otf></Users/suzana/Library/Fonts/MinionPro-Subh.otf></Users/suzana
-/Library/Fonts/MinionPro-Bold.otf></Users/suzana/Library/Fonts/MinionPro-It.otf>
-</Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Library/Fonts/
-MinionPro-ItCapt.otf></Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suz
-ana/Library/Fonts/MinionPro-BoldCapt.otf></System/Library/Fonts/ArialHB.ttc></Us
-ers/suzana/Library/Fonts/Formular-Bold.otf></Users/suzana/Library/Fonts/Formular
--Regular.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono
-8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/Or
-nementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/l
-atxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (150 pages, 544691 bytes).
+</Users/suzana/Library/Fonts/Formular-Italic.otf></System/Library/Fonts/ArialHB.
+ttc></Users/suzana/Library/Fonts/MinionPro-ItSubh.otf>{/usr/local/texlive/2020/t
+exmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Users/suzana/Library/Fonts/M
+inionPro-Subh.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf></Users/suzana
+/Library/Fonts/MinionPro-It.otf></Users/suzana/Library/Fonts/MinionPro-Regular.o
+tf></Users/suzana/Library/Fonts/MinionPro-ItCapt.otf></Users/suzana/Library/Font
+s/MinionPro-Capt.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></Syste
+m/Library/Fonts/ArialHB.ttc></Users/suzana/Library/Fonts/Formular-Bold.otf></Use
+rs/suzana/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2020/texmf-dist
+/fonts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dis
+t/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-di
+st/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (148 pages, 543296 bytes).
 
-PDF statistics: 590 PDF objects out of 1000 (max. 8388607)
- 386 compressed objects within 4 object streams
+PDF statistics: 577 PDF objects out of 1000 (max. 8388607)
+ 378 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

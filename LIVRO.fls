@@ -1,4 +1,4 @@
-PWD /Users/suzana/Desktop/EDLAB/EDITORIAL/LATEX/blecher_acontecimentos
+PWD /Users/suzana/Desktop/EDITORA/EDITORIAL/LATEX/blecher_acontecimentos
 INPUT /usr/local/texlive/2020/texmf-var/web2c/luahbtex/lualatex.fmt
 INPUT ./LIVRO.tex
 OUTPUT LIVRO.log
@@ -256,6 +256,7 @@ INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
 INPUT ./TEXTO.tex
 INPUT ./TEXTO.tex
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/arkandis/adforn/OrnementsADF.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm

@@ -1,9 +1,9 @@
 \thispagestyle {empty}
 \contentsline {part}{Acontecimentos na irrealidade imediata}{9}%
-\contentsline {chapter}{Posfácio, \emph {por Fábio Zuker}}{140}%
-\contentsline {section}{Que sublime é ser louco}{141}%
-\contentsline {section}{O surrealismo e a cidade}{142}%
-\contentsline {section}{Um corpo poroso}{143}%
-\contentsline {section}{A política da exclusão}{144}%
-\contentsline {section}{O jovem Blecher}{145}%
+\contentsline {chapter}{Posfácio, \emph {por Fábio Zuker}}{139}%
+\contentsline {section}{Que sublime é ser louco}{140}%
+\contentsline {section}{O surrealismo e a cidade}{141}%
+\contentsline {section}{Um corpo poroso}{142}%
+\contentsline {section}{A política da exclusão}{143}%
+\contentsline {section}{O jovem Blecher}{144}%
 \babel@toc {brazilian}{}
