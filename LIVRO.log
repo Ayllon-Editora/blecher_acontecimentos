@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  7 AUG 2024 21:51
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  7 AUG 2024 21:55
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1376,31 +1376,30 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 13688 strings out of 480992
+ 13684 strings out of 480992
  100000,794899 words of node,token memory allocated
  1370 words of node memory still in use:
    6 hlist, 1 vlist, 2 rule, 6 glue, 3 kern, 5 glyph, 32 attribute, 198 glue_spe
 c, 17 attribute_list, 3 shape, 3 write, 4 pdf_colorstack nodes
    avail lists: 1:1,2:743,3:97,4:47,5:1595,6:22,7:3932,8:2,9:242,10:24,11:385
- 30614 multiletter control sequences out of 65536+600000
+ 30610 multiletter control sequences out of 65536+600000
  143 fonts using 22520227 bytes
  58i,12n,102p,1746b,409s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
-ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/Formu
-lar-Light.otf></Users/suzana/Library/Fonts/MinionPro-Disp.otf></Users/suzana/Lib
-rary/Fonts/MinionPro-It.otf></Users/suzana/Library/Fonts/MinionPro-Regular.otf><
-/Users/suzana/Library/Fonts/MinionPro-Bold.otf></Users/suzana/Library/Fonts/Form
-ular-Italic.otf></Users/suzana/Library/Fonts/Formular-Bold.otf></Users/suzana/Li
-brary/Fonts/Formular regular mundo indigena.otf></Users/suzana/Library/Fonts/Min
-ionPro-ItCapt.otf></Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana
-/Library/Fonts/MinionPro-BoldCapt.otf></usr/local/texlive/2020/texmf-dist/fonts/
-opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts
-/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/font
-s/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (122 pages, 527021 bytes).
+ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/Minio
+nPro-Disp.otf></Users/suzana/Library/Fonts/MinionPro-It.otf></Users/suzana/Libra
+ry/Fonts/MinionPro-Regular.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf><
+/Users/suzana/Library/Fonts/Formular-Italic.otf></Users/suzana/Library/Fonts/For
+mular-Bold.otf></Users/suzana/Library/Fonts/Formular regular mundo indigena.otf>
+</Users/suzana/Library/Fonts/MinionPro-ItCapt.otf></Users/suzana/Library/Fonts/M
+inionPro-Capt.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></usr/loca
+l/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr/loc
+al/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/lo
+cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (122 pages, 524723 bytes).
 
-PDF statistics: 505 PDF objects out of 1000 (max. 8388607)
- 329 compressed objects within 4 object streams
+PDF statistics: 498 PDF objects out of 1000 (max. 8388607)
+ 325 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
