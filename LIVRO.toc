@@ -1,33 +1,55 @@
 \thispagestyle {empty}
-\contentsline {chapter}{Apresentação, \textit {por Mirella Botaro}}{7}%
-\contentsline {section}{galeria de retratos femininos}{8}%
-\contentsline {section}{sebastian, machado, proust}{9}%
-\contentsline {section}{alusões, sutilezas e não-ditos}{12}%
-\contentsline {part}{Mulheres}{15}%
-\contentsline {chapter}{Renée, Marthe, Odette}{17}%
-\contentsline {section}{i}{17}%
-\contentsline {section}{ii}{19}%
-\contentsline {section}{iii}{23}%
-\contentsline {section}{iv}{33}%
-\contentsline {section}{v}{40}%
-\contentsline {section}{vi}{55}%
-\contentsline {chapter}{Emilie}{59}%
-\contentsline {section}{i}{59}%
-\contentsline {section}{ii}{64}%
-\contentsline {section}{iii}{68}%
-\contentsline {section}{iv}{73}%
-\contentsline {chapter}{Maria}{77}%
-\contentsline {section}{i}{77}%
-\contentsline {section}{ii}{84}%
-\contentsline {section}{iii}{87}%
-\contentsline {section}{iv}{90}%
-\contentsline {section}{v}{94}%
-\contentsline {section}{vi}{99}%
-\contentsline {chapter}{Arabela}{103}%
-\contentsline {section}{i}{103}%
-\contentsline {section}{ii}{113}%
-\contentsline {section}{iii}{117}%
-\contentsline {section}{iv}{123}%
-\contentsline {section}{v}{131}%
-\contentsline {section}{vi}{139}%
+\contentsline {part}{Acontecimentos na irrealidade imediata}{9}%
+\contentsline {section}{i}{11}%
+\contentsline {section}{ii}{13}%
+\contentsline {section}{iii}{14}%
+\contentsline {section}{iv}{16}%
+\contentsline {section}{v}{18}%
+\contentsline {section}{vi}{18}%
+\contentsline {section}{vii}{20}%
+\contentsline {section}{viii}{21}%
+\contentsline {section}{ix}{26}%
+\contentsline {section}{x}{28}%
+\contentsline {section}{xi}{29}%
+\contentsline {section}{xii}{30}%
+\contentsline {section}{xiii}{35}%
+\contentsline {section}{xiv}{37}%
+\contentsline {section}{xv}{38}%
+\contentsline {section}{xvi}{41}%
+\contentsline {section}{xvii}{43}%
+\contentsline {section}{xviii}{44}%
+\contentsline {section}{xix}{45}%
+\contentsline {section}{xx}{47}%
+\contentsline {section}{xxi}{53}%
+\contentsline {section}{xxii}{57}%
+\contentsline {section}{xxiii}{58}%
+\contentsline {section}{xxiv}{60}%
+\contentsline {section}{xxv}{61}%
+\contentsline {section}{xxvi}{62}%
+\contentsline {section}{xxvii}{65}%
+\contentsline {section}{xxviii}{66}%
+\contentsline {section}{xxix}{68}%
+\contentsline {section}{xxx}{69}%
+\contentsline {section}{xxxi}{70}%
+\contentsline {section}{xxxii}{72}%
+\contentsline {section}{xxxiii}{74}%
+\contentsline {section}{xxxiv}{77}%
+\contentsline {section}{xxxv}{80}%
+\contentsline {section}{xxxvi}{82}%
+\contentsline {section}{xxxvii}{84}%
+\contentsline {section}{xxxviii}{90}%
+\contentsline {section}{xxxix}{91}%
+\contentsline {section}{xl}{92}%
+\contentsline {section}{xli}{94}%
+\contentsline {section}{xlii}{104}%
+\contentsline {section}{xliii}{107}%
+\contentsline {section}{xliv}{109}%
+\contentsline {section}{xlv}{112}%
+\vspace \medskipamount 
+\contentsline {chapter}{Posfácio, \textit {por Fábio Zuker}}{113}%
+\contentsline {section}{Que sublime é ser louco}{114}%
+\contentsline {section}{O surrealismo e a cidade}{115}%
+\contentsline {section}{Um corpo poroso}{116}%
+\contentsline {section}{A política da exclusão}{117}%
+\contentsline {section}{O jovem Blecher}{118}%
 \babel@toc {brazilian}{}
