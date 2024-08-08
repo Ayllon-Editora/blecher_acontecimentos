@@ -1,9 +1,33 @@
 \thispagestyle {empty}
-\contentsline {part}{Acontecimentos na irrealidade imediata}{9}%
-\contentsline {chapter}{Posfácio, \emph {por Fábio Zuker}}{139}%
-\contentsline {section}{Que sublime é ser louco}{140}%
-\contentsline {section}{O surrealismo e a cidade}{141}%
-\contentsline {section}{Um corpo poroso}{142}%
-\contentsline {section}{A política da exclusão}{143}%
-\contentsline {section}{O jovem Blecher}{144}%
+\contentsline {chapter}{Apresentação, \textit {por Mirella Botaro}}{7}%
+\contentsline {section}{galeria de retratos femininos}{8}%
+\contentsline {section}{sebastian, machado, proust}{9}%
+\contentsline {section}{alusões, sutilezas e não-ditos}{12}%
+\contentsline {part}{Mulheres}{15}%
+\contentsline {chapter}{Renée, Marthe, Odette}{17}%
+\contentsline {section}{i}{17}%
+\contentsline {section}{ii}{19}%
+\contentsline {section}{iii}{23}%
+\contentsline {section}{iv}{33}%
+\contentsline {section}{v}{40}%
+\contentsline {section}{vi}{55}%
+\contentsline {chapter}{Emilie}{59}%
+\contentsline {section}{i}{59}%
+\contentsline {section}{ii}{64}%
+\contentsline {section}{iii}{68}%
+\contentsline {section}{iv}{73}%
+\contentsline {chapter}{Maria}{77}%
+\contentsline {section}{i}{77}%
+\contentsline {section}{ii}{84}%
+\contentsline {section}{iii}{87}%
+\contentsline {section}{iv}{90}%
+\contentsline {section}{v}{94}%
+\contentsline {section}{vi}{99}%
+\contentsline {chapter}{Arabela}{103}%
+\contentsline {section}{i}{103}%
+\contentsline {section}{ii}{113}%
+\contentsline {section}{iii}{117}%
+\contentsline {section}{iv}{123}%
+\contentsline {section}{v}{131}%
+\contentsline {section}{vi}{139}%
 \babel@toc {brazilian}{}

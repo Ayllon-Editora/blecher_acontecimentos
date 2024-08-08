@@ -27,7 +27,7 @@
 \usepackage{url}					% para citar sites \url
 \usepackage{marginnote}					% para notas laterais
 \usepackage{titlesec}					% para produzir os distanciamentos entre pontos no \dotfill
-\usepackage{textpos}
+
 %\usepackage{makeidx} 					% para índice remissivo
 
 \usepackage{edlab-penalties}
@@ -35,13 +35,14 @@
 \usepackage{edlab-toc}					% define sumário
 \usepackage{edlab-extra}				% define epígrafe, quote
 \usepackage[largepost]{edlab-margins}
-\usepackage[%semcabeco, 				% para remover cabeço, sobe mancha e mantem estilos
+\usepackage[semcabeco, 				% para remover cabeço, sobe mancha e mantem estilos
 			]{edlab-sections}			% define pagestyle (cabeço, rodapé e seções)
 \usepackage[%
 			% notasemlinha 			
 			% notalinhalonga
 			chicagofootnotes			% para notas com número e ponto cf. man. de Chicago
 			]{edlab-footnotes}
+
 
 % Medidas (ver: memoir p.11 fig.2.3)
 \parindent=3ex			% Tamanho da indentação
@@ -53,24 +54,25 @@
 \newfontfamily\formular{Formular}
 \newfontfamily\formularlight{Formular Light}
 \setmainfont[Ligatures=TeX,Numbers=OldStyle]{Minion Pro}
-\newfontfamily\arial{Arial Hebrew}        
-\newfontfamily\ariallight{ArialHebrew-Light}        
+
 
 % Estilos
-\copypagestyle{posf}{baruch}
-\makeoddhead{posf}{}{\formularlight\tiny{APRESENTAÇÃO}}{}
-\makeevenhead{posf}{}{\formularlight\tiny{MIRELLA BOTARO}}{}
-\makeevenfoot{posf}{}{\footnotesize\thepage}{}
-\makeoddfoot{posf}{}{\footnotesize\thepage}{}
-
-\makeoddhead{baruch}{}{\formularlight\tiny\MakeUppercase{\leftmark}}{}
-\makeevenhead{baruch}{}{\formularlight\tiny{MULHERES}}{}
+\makeoddhead{baruch}{}{\scshape\MakeLowercase{\scshape\MakeTextLowercase{}}}{}
+\makeevenhead{baruch}{}{\scshape\MakeLowercase{}}{}
 \makeevenfoot{baruch}{}{\footnotesize\thepage}{}
 \makeoddfoot{baruch}{}{\footnotesize\thepage}{}
 \pagestyle{baruch}		
 \headstyles{baruch}
 
+% Testes
+
+
 \begin{document}
+
+
+%\input{MUSSUMIPSUM}  		% Teste da classe
 \include{INPUTS}
+
+
 \checkandfixthelayout
 \end{document}

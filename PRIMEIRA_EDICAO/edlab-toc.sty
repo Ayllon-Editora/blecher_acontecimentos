@@ -1,14 +1,14 @@
 % edlab-toc.sty
 
-% nothing     is level -3
-% \book       is level -2
-% \part       is level -1
-% \chapter      is level 0
-% \section      is level 1
-% \subsection     is level 2
-% \subsubsection  is level 3
-% \paragraph    is level 4
-% \subparagraph   is level 5
+% nothing			is level -3
+% \book				is level -2
+% \part				is level -1
+% \chapter 			is level 0
+% \section 			is level 1
+% \subsection 		is level 2
+% \subsubsection 	is level 3
+% \paragraph 		is level 4
+% \subparagraph 	is level 5
 
 
 % \cft... (ver manual memoir, seção 9.2.2, p.153)
@@ -20,29 +20,29 @@
 % ---> [cap.] |   |2|  | Este é outro capitulo ......| | 2
 % (H)  (B)        (C)   (I) (D)                      (E)    (F) 
 % ------------------------------------------------------------|
-%                                                        (c)
+%                                                    		 (c)
 % ------------------------------------------------------------|
 
 % (a) \setpnumwidth
-% (b) \setrmarg       Margem direita para quebra de texto longo
-% (c) parskip       Espaço entre parágrafo (só geral)
+% (b) \setrmarg 			Margem direita para quebra de texto longo
+% (c) parskip				Espaço entre parágrafo (só geral)
 
-% (A) before...skip     Distância vertical antes da seção
-% (B) name          Palavra acrescentada antes do número (ex: cap.)
-% (C) numwidth        Distância entre (C) e (D)
-% (D) font          Formatação para trecho (B), (C) e (D)
-% (E) leader        Linha pontilhada entre seção e número
-% (F) formatpnum      Formatação do número
+% (A) before...skip 		Distância vertical antes da seção
+% (B) name 					Palavra acrescentada antes do número (ex: cap.)
+% (C) numwidth 				Distância entre (C) e (D)
+% (D) font 					Formatação para trecho (B), (C) e (D)
+% (E) leader 				Linha pontilhada entre seção e número
+% (F) formatpnum			Formatação do número
 % (G)
-% (H) indent        Identação inicial da linha
-% (I)             Caracter antes do (D)
-% (J)           Caracter antes do (C)
-% (K)           Caracter depois do (C)
+% (H) indent				Identação inicial da linha
+% (I) 						Caracter antes do (D)
+% (J)						Caracter antes do (C)
+% (K)						Caracter depois do (C)
 
 % Gerais
-\renewcommand{\cftparskip}{2pt}   % Parskip entre seções
-\setpnumwidth{1em}          % Distância entre leader (E) e nũmero (F)        
-\setrmarg{5.55em plus 1fil}     % Quebra uma linha
+\renewcommand{\cftparskip}{2pt}  	% Parskip entre seções
+\setpnumwidth{1em}					% Distância entre leader (E) e nũmero (F)				 
+\setrmarg{5.55em plus 1fil}			% Quebra uma linha
 
 % (A) Distância vertical antes do categoria anterior 
 \renewcommand{\cftbeforepartskip}{.6em}
@@ -53,7 +53,7 @@
 \renewcommand{\cftbeforesubparagraphskip}{0em}
 
 % (B) Palavra acrescentada antes do número
-% \renewcommand{\cftbookname}{Liv.}       
+% \renewcommand{\cftbookname}{Liv.}				
 % \renewcommand{\cftpartname}{Parte}
 % \renewcommand{\cftchaptername}{Cap.}
 % \renewcommand{\cftsectionname}{Sec.}
@@ -62,14 +62,14 @@
 % \renewcommand{\cftsubparagraphname}{Subpar.}
 
 % (C) Distância horizontal entre (C) e (D)
-\renewcommand{\cftbooknumwidth}{2em}      
-\renewcommand{\cftpartnumwidth}{2em}
-\renewcommand{\cftchapternumwidth}{2em}
-\renewcommand{\cftsectionnumwidth}{4em}
-\renewcommand{\cftsubsectionnumwidth}{4em}
-\renewcommand{\cftsubsubsectionnumwidth}{4em}
-\renewcommand{\cftparagraphnumwidth}{4em}
-\renewcommand{\cftsubparagraphnumwidth}{4em}
+%\renewcommand{\cftbooknumwidth}{2em}			
+%\renewcommand{\cftpartnumwidth}{2em}
+%\renewcommand{\cftchapternumwidth}{2em}
+%\renewcommand{\cftsectionnumwidth}{4em}
+%\renewcommand{\cftsubsectionnumwidth}{4em}
+%\renewcommand{\cftsubsubsectionnumwidth}{4em}
+%\renewcommand{\cftparagraphnumwidth}{4em}
+%\renewcommand{\cftsubparagraphnumwidth}{4em}
 
 % (D) Formatação para trecho (B), (C) e (D)
 \renewcommand{\cftbookfont}{\normalsize\scshape\MakeTextLowercase}
@@ -81,10 +81,10 @@
 \renewcommand{\cftparagraphfont}{\footnotesize}
 \renewcommand{\cftsubparagraphfont}{\footnotesize}
 
-% (F) formatpnum      Formatação do número
+% (F) formatpnum			Formatação do número
 \renewcommand{\cftbookformatpnum}{\normalsize\scshape}
 \renewcommand{\cftpartformatpnum}{\normalsize\scshape}
-\renewcommand{\cftchapterformatpnum}{\normalsize}
+\renewcommand{\cftchapterformatpnum}{\normalsize} %Aqui posso colocar >>
 \renewcommand{\cftsectionformatpnum}{\footnotesize}
 \renewcommand{\cftsubsectionformatpnum}{\footnotesize}
 \renewcommand{\cftsubsubsectionformatpnum}{\footnotesize}
@@ -102,7 +102,7 @@
 \renewcommand{\cftsubparagraphleader}{\dotfill}
 
 
-% (H) indent        Identação inicial da linha
+% (H) indent				Identação inicial da linha
 \renewcommand{\cftbookindent}{0ex}
 \renewcommand{\cftpartindent}{0ex}
 \renewcommand{\cftchapterindent}{0ex}
