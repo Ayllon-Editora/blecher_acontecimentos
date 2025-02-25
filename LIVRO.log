@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  24 FEB 2025 16:57
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  25 FEB 2025 15:44
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1419,36 +1419,36 @@ Package lettrine.sty Info: Targeted height = 32.2808pt
 Package lettrine.sty Info: Targeted height = 32.2808pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 31.0817pt (N);
-(lettrine.sty)             reported on input line 2571.
+(lettrine.sty)             reported on input line 2570.
 
 [82] [83] [84] [85] [86]
 Package lettrine.sty Info: Targeted height = 32.2808pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 31.0817pt (E);
-(lettrine.sty)             reported on input line 2773.
+(lettrine.sty)             reported on input line 2769.
  [87] [88]
 Package lettrine.sty Info: Targeted height = 32.2808pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 31.0817pt (E);
-(lettrine.sty)             reported on input line 2820.
+(lettrine.sty)             reported on input line 2815.
  [89]
 Package lettrine.sty Info: Targeted height = 32.2808pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 31.0817pt (P);
-(lettrine.sty)             reported on input line 2861.
+(lettrine.sty)             reported on input line 2852.
  [90] [91]
 Package lettrine.sty Info: Targeted height = 32.2808pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 31.0817pt (D);
-(lettrine.sty)             reported on input line 2948.
+(lettrine.sty)             reported on input line 2941.
  [92] [93] [94] [95] [96]
 [97] [98] [99] [100]
 Package lettrine.sty Info: Targeted height = 32.2808pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 31.0817pt (N);
-(lettrine.sty)             reported on input line 3315.
+(lettrine.sty)             reported on input line 3308.
 
-Underfull \hbox (badness 1460) in paragraph at lines 3315--3320
+Underfull \hbox (badness 1460) in paragraph at lines 3308--3313
 \TU/MinionPro(0)/m/n/10.95/12ls to-das as mi-nhas fa-di-gas e per-gun-tas tor-tu
 -ran-tes
  []
@@ -1457,17 +1457,17 @@ Underfull \hbox (badness 1460) in paragraph at lines 3315--3320
 Package lettrine.sty Info: Targeted height = 32.2808pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 31.0817pt (N);
-(lettrine.sty)             reported on input line 3422.
+(lettrine.sty)             reported on input line 3415.
  [104] [105]
 Package lettrine.sty Info: Targeted height = 32.2808pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 31.7532pt (Q);
-(lettrine.sty)             reported on input line 3485.
+(lettrine.sty)             reported on input line 3478.
  [106] [107] [108]
 Package lettrine.sty Info: Targeted height = 32.2808pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 31.0817pt (D);
-(lettrine.sty)             reported on input line 3585.
+(lettrine.sty)             reported on input line 3578.
 ) (./POSFACIO.tex [109] [110
 
 ]
@@ -1581,14 +1581,14 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 13799 strings out of 480992
+ 13786 strings out of 480992
  100000,953878 words of node,token memory allocated
  1438 words of node memory still in use:
    6 hlist, 1 vlist, 2 rule, 1 disc, 6 glue, 6 kern, 11 glyph, 32 attribute, 198
  glue_spec, 17 attribute_list, 3 shape, 3 write, 4 pdf_colorstack nodes
    avail lists: 1:1,2:743,3:93,4:108,5:2822,6:20,7:5129,8:2,9:249,10:74,11:469
- 30725 multiletter control sequences out of 65536+600000
- 193 fonts using 34014395 bytes
+ 30712 multiletter control sequences out of 65536+600000
+ 189 fonts using 33026459 bytes
  57i,12n,102p,1005b,409s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/Minio
@@ -1601,7 +1601,7 @@ inionPro-Capt.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></usr/loca
 l/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr/loc
 al/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/lo
 cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (120 pages, 569192 bytes).
+Output written on LIVRO.pdf (120 pages, 570780 bytes).
 
 PDF statistics: 491 PDF objects out of 1000 (max. 8388607)
  320 compressed objects within 4 object streams
