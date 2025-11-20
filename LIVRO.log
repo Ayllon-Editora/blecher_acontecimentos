@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.8.11)  20 NOV 2025 17:53
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.8.11)  20 NOV 2025 18:02
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1804,57 +1804,57 @@ Package lettrine.sty Info: Targeted height = 32.2808pt
 [119]
 
 [120]
-
-[121]
-<img/AYLLON.pdf, id=389, 256.07469pt x 42.67915pt>
+<img/AYLLON.pdf, id=385, 256.07469pt x 42.67915pt>
 File: img/AYLLON.pdf Graphic file (type pdf)
 <use img/AYLLON.pdf>
 Package luatex.def Info: img/AYLLON.pdf  used on input line 28.
 (luatex.def)             Requested size: 115.4995pt x 19.24971pt.
-<img/HEDRA_EDICOES.pdf, id=390, 256.07469pt x 62.59605pt>
+<img/HEDRA_EDICOES.pdf, id=386, 256.07469pt x 62.59605pt>
 File: img/HEDRA_EDICOES.pdf Graphic file (type pdf)
 <use img/HEDRA_EDICOES.pdf>
 Package luatex.def Info: img/HEDRA_EDICOES.pdf  used on input line 58.
 (luatex.def)             Requested size: 115.4995pt x 28.2329pt.
 
 
-[122<./img/AYLLON.pdf><./img/HEDRA_EDICOES.pdf>]
+[121<./img/AYLLON.pdf><./img/HEDRA_EDICOES.pdf>]
 
-[123]
-<img/METABIBLIOTECA.pdf, id=419, 256.07469pt x 42.67915pt>
+[122]
+<img/METABIBLIOTECA.pdf, id=416, 256.07469pt x 42.67915pt>
 File: img/METABIBLIOTECA.pdf Graphic file (type pdf)
 <use img/METABIBLIOTECA.pdf>
 Package luatex.def Info: img/METABIBLIOTECA.pdf  used on input line 195.
 (luatex.def)             Requested size: 115.4995pt x 19.24971pt.
 
 
-[124<./img/METABIBLIOTECA.pdf>]
-<img/PAIDEIA.pdf, id=430, 256.07469pt x 42.67915pt>
+[123<./img/METABIBLIOTECA.pdf>]
+<img/PAIDEIA.pdf, id=427, 256.07469pt x 42.67915pt>
 File: img/PAIDEIA.pdf Graphic file (type pdf)
 <use img/PAIDEIA.pdf>
 Package luatex.def Info: img/PAIDEIA.pdf  used on input line 247.
 (luatex.def)             Requested size: 115.4995pt x 19.24971pt.
-<img/QUE_HORAS_SAO.pdf, id=431, 256.07469pt x 42.67915pt>
+<img/QUE_HORAS_SAO.pdf, id=428, 256.07469pt x 42.67915pt>
 File: img/QUE_HORAS_SAO.pdf Graphic file (type pdf)
 <use img/QUE_HORAS_SAO.pdf>
 Package luatex.def Info: img/QUE_HORAS_SAO.pdf  used on input line 279.
 (luatex.def)             Requested size: 115.4995pt x 19.24971pt.
-<img/MUNDO_INDIGENA.pdf, id=432, 256.07469pt x 62.59605pt>
+<img/MUNDO_INDIGENA.pdf, id=429, 256.07469pt x 62.59605pt>
 File: img/MUNDO_INDIGENA.pdf Graphic file (type pdf)
 <use img/MUNDO_INDIGENA.pdf>
 Package luatex.def Info: img/MUNDO_INDIGENA.pdf  used on input line 319.
 (luatex.def)             Requested size: 115.4995pt x 28.2329pt.
 
 
-[125<./img/PAIDEIA.pdf><./img/QUE_HORAS_SAO.pdf>]
-<img/ANARC.pdf, id=450, 256.07469pt x 42.67915pt>
+[124<./img/PAIDEIA.pdf><./img/QUE_HORAS_SAO.pdf>]
+<img/ANARC.pdf, id=447, 256.07469pt x 42.67915pt>
 File: img/ANARC.pdf Graphic file (type pdf)
 <use img/ANARC.pdf>
 Package luatex.def Info: img/ANARC.pdf  used on input line 371.
 (luatex.def)             Requested size: 115.4995pt x 19.24971pt.
 )
 
-[126<./img/MUNDO_INDIGENA.pdf><./img/ANARC.pdf>] (./Z-colofon.tex
+[125<./img/MUNDO_INDIGENA.pdf><./img/ANARC.pdf>] (./Z-colofon.tex
+
+[126]
 
 [127]
 
@@ -1929,11 +1929,11 @@ Here is how much of LuaTeX's memory you used:
    7 hlist, 1 vlist, 1 rule, 1 disc, 1 local_par, 11 glue, 8 kern, 1 penalty, 13
  glyph, 42 attribute, 186 glue_spec, 22 attribute_list, 3 shape, 4 write, 4 pdf_
 colorstack nodes
-   avail lists: 1:2,2:2837,3:514,4:253,5:4063,6:174,7:7492,8:3,9:845,10:74,11:70
+   avail lists: 1:2,2:2837,3:514,4:253,5:4063,6:174,7:7488,8:3,9:845,10:74,11:70
 6
  38095 multiletter control sequences out of 65536+600000
  162 fonts using 32278583 bytes
- 85i,16n,99p,1001b,629s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,16n,99p,1001b,631s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Sy
 stem/Library/Fonts/Supplemental/Times New Roman.ttf></Users/suzana/Library/Fonts
 /Formular-Italic.otf></Users/suzana/Library/Fonts/Formular-Bold.otf></Users/suza
@@ -1943,7 +1943,7 @@ nts/MinionPro-Bold.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public
 /lm/lmmono8-regular.otf></usr/local/texlive/2025/texmf-dist/fonts/type1/arkandis
 /adforn/OrnementsADF.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/
 amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (128 pages, 602508 bytes).
+Output written on LIVRO.pdf (128 pages, 602275 bytes).
 
 PDF statistics: 540 PDF objects out of 1000 (max. 8388607)
  348 compressed objects within 4 object streams
